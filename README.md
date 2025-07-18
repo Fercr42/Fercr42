@@ -9,8 +9,8 @@
 
 ## 🌐 Socials
 
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28"/>](https://instagram.com/tuusuario)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>](https://linkedin.com/in/tuusuario)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28"/>](https://instagram.com/ferrl42)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>](https://linkedin.com/in/fernando-rodriguez-2ab311238/)
 
 
 ## 💻 Tech Stack
